@@ -1,7 +1,9 @@
-##爱国者 冰魄 SX系列水冷mac版驱动
-SXMonitor for Intel macOS
+# SXMonitor for Intel macOS
 
-使用方法
+爱国者 冰魄 SX系列水冷mac版驱动
+
+## 📖 使用方法
+
 1. 保存整个 ZIP 到 U 盘、移动硬盘或其他备份位置。
 2. 重装 macOS 后解压，双击 SXMonitor-Intel-1.1.0.pkg。
 3. 按安装向导完成安装，输入一次管理员密码。
